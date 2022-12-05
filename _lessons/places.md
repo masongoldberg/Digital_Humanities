@@ -1,3 +1,9 @@
+---
+layout: page
+title: Finding Places in Text
+description: This lesson uses spaCy to find place and person names in a text and understand them using visualizations. 
+---
+
 # Source
 
 Grunewald, Susan, and Andrew Janco. “Finding Places in Text with the World Historical Gazeteer.” Programming Historian, February 11, 2022. https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer. 
