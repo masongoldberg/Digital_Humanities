@@ -1,0 +1,79 @@
+,place_name,frequency
+15,Rome,22
+74,Puedo,12
+16,Thou,12
+2,Venice,10
+1,Antarctica,10
+29,Earth,7
+65,San Francisco,5
+5,Italy,4
+44,Egypt,3
+4,Tasso,3
+37,earth,3
+66,L.A.,3
+11,Europe,3
+32,thou,3
+23,Alps,2
+33,Soracte,2
+30,Ocean,2
+21,North,2
+36,Beheld,2
+47,Coliseum,2
+46,Egeria,2
+64,La,2
+75,Pero,2
+63,Viens,1
+54,Sadder,1
+48,Blest,1
+49,Nile,1
+50,Standest,1
+51,Thou movest,1
+52,Sun,1
+53,nothing:—if,1
+73,Atlantic,1
+72,Nighttime,1
+71,London,1
+55,Iris.—Thou,1
+62,thou rollest,1
+70,Aim,1
+69,Pacific,1
+56,Rome;—and,1
+68,"Hippie Jon
+Remember",1
+67,Israel,1
+57,Sea,1
+58,"him,—thou",1
+59,Trafalgar,1
+60,Assyria,1
+61,Greece,1
+0,Cyprus,1
+38,Pallas,1
+45,Triumph,1
+20,green hill's,1
+3,East,1
+6,IV,1
+7,Spartan,1
+8,St. Mark,1
+9,Byzantium,1
+10,Doria,1
+12,Albion,1
+13,XX,1
+14,Loftiest,1
+17,Friuli,1
+18,Arqua,1
+19,sepulchre,1
+22,strikes;—yon,1
+43,Cornelia,1
+24,Paris,1
+25,Santa Croce's,1
+26,creation:—Italy,1
+27,Santa Croce,1
+28,Fatal,1
+31,Clitumnus,1
+34,Flood,1
+35,Asia;—thou,1
+39,Washington,1
+40,France,1
+41,Saturnalia,1
+42,Tombed,1
+76,Khruangbin,1
