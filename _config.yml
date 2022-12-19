@@ -39,7 +39,7 @@ header_pages:
   - dh-project-evaluations.md
   - coding-exercises.md
   - programming-historian-lessons.md
-  - final-project.md
+  - /_finalproject/finalproject.md
 
 collections:
   evaluations:
