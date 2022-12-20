@@ -326,7 +326,7 @@ Now, it's actually time for Voyant!
 
 First, let's answer the million-dollar question. Or at least, the least interesting question. Did the thematic focus of the Beach Boys music actually shift away from the California surfer kitsch image that they purportedly had in the beginning of their career? Looking at a graph of relative word usage across albums, it looks like it. 
 
-![png](_finalproject/surfergraph2.png)
+![png](assets/surfergraph2.png)
 
 If you see above, the relative frequency of the three most cited themes (girls, cars, surfing, though this is anecdotal) of the Beach Boys that people see as detracting from their "seriousness" are certainly clustered towards the beginning of their discography, tapering off as time goes on. There's a hump of "girls" in their 1965 album, but I would argue that the "paradigm shift" of the Beach Boys is really their 1966 album, Pet Sounds. You can also see that "girls" and "cars" make a comeback in the late 70s and early 80s, well past their prime of albums that are generally regarded as some of their "best" - Pet Sounds in 1966, Smiley Smile in 1968, Sunflower in 1970, Surf's Up in 1971 — could this be indicative of a post-peak sense of nostalgia among the band for earlier days of rock-stardom? Further research could analyze how the usage of such terms differed in those different eras, but that's for another time. To answer the question of whether or not they shied away from their original themes over time, it's a yes. 
 
@@ -337,17 +337,17 @@ So, how can we break down the themes of the Beach Boys throughout time, using da
 
 ### Early Period (1962-1966)
 
-![png](/_finalproject/EarlyWC.png)
+![png](/assets/EarlyWC.png)
 
 
 ### Peak Period (1966-1971)
 
-![png](/_finalproject/PeakWC2.png)
+![png](/assets/PeakWC2.png)
 
 
 ### Post-Peak Period (1971-2012)
 
-![png](_finalproject/LateWC.png)
+![png](assets/LateWC.png)
 
 Now, am I going to say that the most used words in each period are that distinct from one another? No, they're not, they're actually quite similar, but sometimes uninteresting results are just a part of humanities research. The quick response to this is saying that yes, maybe the lyrical themes of the Beach Boys throughout their discography was pretty stagnant, and that to really understand their musical growth over time, you need to dive more deeply into their musical growth as opposed to their lyrical growth. And while that may be true, I think there's another way of looking at it. Yes, the big words tend to be the same, like "Love" and "Know" and whatnot, but looking at the words that are smaller on the wordcloud, a different story begins to be told.
 
@@ -363,7 +363,7 @@ As an example, let's take a look at Surf's Up, their 1971 album. Here's a word c
 
 ### Surf's Up (1971)
 
-![png](_finalproject/SurfsUp.png)
+![png](assets/SurfsUp.png)
 
 
 Now, that's a real departure from the above word clouds— this is an example of an album that is both lyrically and musically quite different from their other work. I mean, just look at these top used words— "child," "student," "die," "demonstration,"  "riot," "puff" — thematically, this album is a huge departure from their earlier albums, and you wouldn't even know it from the titles of some of the songs on that album, like "Surf's Up," "Disney Girls," "Feel Flows," etc. The themes here are really different, talking about the turmoil of the early 70s and the Vietnam War, student unrest, having a sort of pessimistic outlook on society— this is something that you wouldn't be able to tell from the larger era word clouds, but looking deeply at one album, you can see more of an individual change in theme. What does this point to about the Beach Boys as a band, on the whole? I think that there is a sense that there are bands that had peaks where they pushed out interesting and different albums one after another, in a sort of golden era of music— maybe think late 60s Beatles, or the Strokes' creative peak in their first three or so albums. For the Beach Boys, I think they hit their high peaks in waves, with one album being lyrically unique, and then the next maybe being less so. So in popular music discourse, when we talk about "eras" of bands, should we be evaluating bands in chunks, or by individual albums? 
